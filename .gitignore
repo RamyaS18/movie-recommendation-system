@@ -1,0 +1,7 @@
+practice_venv/
+__pycache__/
+*.pkl
+*.pyc
+*.pkl
+data/
+similarity.pkl

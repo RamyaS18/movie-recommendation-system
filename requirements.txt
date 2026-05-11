@@ -1,0 +1,28 @@
+# 🎬 AI Movie Recommendation System
+
+A Netflix-style AI Movie Recommendation Web App built using Python, Machine Learning, and Streamlit.
+
+## 🚀 Features
+
+- 🎥 Movie Recommendations
+- ⭐ IMDb Ratings
+- 🔥 Match Percentage
+- 🎭 Genre Information
+- ▶ Watch Trailer Button
+- 🌑 Netflix-style Dark UI
+- 🔍 Smart Movie Search
+- 📈 Trending Movies Section
+
+## 🛠️ Technologies Used
+
+- Python
+- Streamlit
+- Machine Learning
+- Scikit-learn
+- Pandas
+- OMDb API
+
+## ▶️ Run Locally
+
+```bash
+streamlit run app.py
